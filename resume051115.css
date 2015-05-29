@@ -1,0 +1,43 @@
+body {
+    background-color: white; 
+    color: #000;
+    padding: 20px;
+    text-align: left;
+    width: 816px;
+    height: 1056px;
+    margin: 0 auto;
+}
+
+.top {
+    border-bottom: 1px solid black;
+}
+
+
+table {
+	width: 100%;
+}
+
+table td:nth-child(even) {
+    text-align: right;
+}
+
+h1 {
+	font-family: Helvetica;
+	font-size: 24px;}
+
+h2 {
+	font-family: Helvetica;	
+	font-size: 18px;
+}
+h3 {
+	font-family: sans-serif;	
+	font-size: 14px;
+}
+p, ul {
+	font-family: sans-serif;
+	font-size: 12px;
+}
+
+.edu {
+	text-indent: 30px;
+}
